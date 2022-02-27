@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SaleTerminal.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "SaleTerminal.BusinessEntities": "1.0.0",
+          "SaleTerminal.DataAccessLayer": "1.0.0"
+        },
+        "runtime": {
+          "SaleTerminal.BusinessLayer.dll": {}
+        }
+      },
+      "SaleTerminal.BusinessEntities/1.0.0": {
+        "runtime": {
+          "SaleTerminal.BusinessEntities.dll": {}
+        }
+      },
+      "SaleTerminal.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "SaleTerminal.BusinessEntities": "1.0.0"
+        },
+        "runtime": {
+          "SaleTerminal.DataAccessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaleTerminal.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaleTerminal.BusinessEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaleTerminal.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

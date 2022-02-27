@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SaleTerminal.BusinessEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SaleTerminal.BusinessEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SaleTerminal.BusinessEntities.dll": {}
+        }
+      },
+      "SaleTerminal.BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SaleTerminal.BusinessEntities": "1.0.0",
+          "SaleTerminal.DataAccessLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SaleTerminal.BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SaleTerminal.BusinessLayer.dll": {}
+        }
+      },
+      "SaleTerminal.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "SaleTerminal.BusinessEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SaleTerminal.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SaleTerminal.DataAccessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaleTerminal.BusinessEntities/1.0.0": {
+      "type": "project",
+      "path": "../SaleTerminal.BusinessEntities/SaleTerminal.BusinessEntities.csproj",
+      "msbuildProject": "../SaleTerminal.BusinessEntities/SaleTerminal.BusinessEntities.csproj"
+    },
+    "SaleTerminal.BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../SaleTerminal.BusinessLayer/SaleTerminal.BusinessLayer.csproj",
+      "msbuildProject": "../SaleTerminal.BusinessLayer/SaleTerminal.BusinessLayer.csproj"
+    },
+    "SaleTerminal.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../SaleTerminal.DataAccessLayer/SaleTerminal.DataAccessLayer.csproj",
+      "msbuildProject": "../SaleTerminal.DataAccessLayer/SaleTerminal.DataAccessLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SaleTerminal.BusinessEntities >= 1.0.0",
+      "SaleTerminal.BusinessLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mukund.singh\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GIT\\SaleTerminal\\SaleTerminal\\SaleTerminal.csproj",
+      "projectName": "SaleTerminal",
+      "projectPath": "C:\\GIT\\SaleTerminal\\SaleTerminal\\SaleTerminal.csproj",
+      "packagesPath": "C:\\Users\\mukund.singh\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT\\SaleTerminal\\SaleTerminal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mukund.singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\GIT\\ApiHelper\\C2P.Catalogs.WebApiHelper\\C2P.Catalogs.WebApiHelper\\bin\\Debug": {},
+        "C:\\GIT\\CommunicationLayer\\GEP PlatformServices\\GEP.SMART.CommunicationLayer\\GEP.SMART.CommunicationLayer\\bin\\Debug": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://gepdev.pkgs.visualstudio.com/_packaging/GEPPackages@Release/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\GIT\\SaleTerminal\\SaleTerminal.BusinessEntities\\SaleTerminal.BusinessEntities.csproj": {
+              "projectPath": "C:\\GIT\\SaleTerminal\\SaleTerminal.BusinessEntities\\SaleTerminal.BusinessEntities.csproj"
+            },
+            "C:\\GIT\\SaleTerminal\\SaleTerminal.BusinessLayer\\SaleTerminal.BusinessLayer.csproj": {
+              "projectPath": "C:\\GIT\\SaleTerminal\\SaleTerminal.BusinessLayer\\SaleTerminal.BusinessLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

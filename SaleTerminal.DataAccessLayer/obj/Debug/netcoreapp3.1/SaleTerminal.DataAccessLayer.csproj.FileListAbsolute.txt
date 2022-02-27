@@ -1,0 +1,12 @@
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\bin\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.deps.json
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\bin\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.dll
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\bin\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.pdb
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.csprojAssemblyReference.cache
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.AssemblyInfoInputs.cache
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.AssemblyInfo.cs
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.dll
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.pdb
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\bin\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.dll
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\bin\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.pdb
+C:\GIT\SaleTerminal\SaleTerminal.DataAccessLayer\obj\Debug\netcoreapp3.1\SaleTerminal.DataAccessLayer.csproj.CopyComplete

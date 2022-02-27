@@ -1,0 +1,9 @@
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\bin\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.deps.json
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\bin\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.dll
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\bin\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.pdb
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\obj\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.csprojAssemblyReference.cache
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\obj\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.AssemblyInfoInputs.cache
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\obj\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.AssemblyInfo.cs
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\obj\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\obj\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.dll
+C:\GIT\SaleTerminal\SaleTerminal.BusinessEntities\obj\Debug\netcoreapp3.1\SaleTerminal.BusinessEntities.pdb
